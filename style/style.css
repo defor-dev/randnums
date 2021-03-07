@@ -1,0 +1,17 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.wrapper {
+    max-width: 720px;
+}
+.generator {
+    display: flex;
+    flex-direction: row;
+}
+.result {
+    width: 40%;
+    height: 40%;
+    background: #414141;
+}
